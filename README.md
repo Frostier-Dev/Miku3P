@@ -10,3 +10,6 @@ Full Version expected to 10/12/2026
 
 Actual build: BACKUP NB01 (Demo 001)
 04:00 18/10/2026
+
+Follow now the progress in the project by here for now:D
+- Reddit: https://www.reddit.com/user/Frostierdev/ (u/FrostieDev)
