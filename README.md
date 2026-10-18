@@ -7,3 +7,6 @@
 - Localization in English (North America), German (Deutsch) and Japanese (日本語)
 
 Full Version expected to 10/12/2026
+
+Actual build: BACKUP NB01 (Demo 001)
+04:00 18/10/2026
